@@ -1,13 +1,13 @@
-body {
+*{
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+}
+body{
+margin: 0;
+height: 100vh;
+
+background-image: url(https://th.bing.com/th/id/R.259a7e3c4f531332bf3ca6b6e6ddece9?rik=58KsNdHolFxtYw&riu=http%3a%2f%2fe-cvsi.org%2fuploads%2fslider%2fslider_13.jpg&ehk=gpszWLd3kLN9tn7%2f5SU5g81sX%2fXtv7Uw72w5%2fqtiwik%3d&risl=&pid=ImgRaw&r=0);
+width: 100%;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
